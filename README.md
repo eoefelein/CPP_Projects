@@ -1,6 +1,7 @@
 # CPP_Projects
 
-Lab 1: Arrays & Recursion
+Lab 1: ARRAYS & RECURSION
+
 Write a method to sort an array bag in ascending order, using the Bubble Sort.
 Implement two (2) versions of the binary search, one using repetition and one using recursion.
 
@@ -11,7 +12,8 @@ Give the user the option to:
 3) Search for a value using iterative or recursive search
 Allow the user to keep displaying, searching and sorting until they are done.
 
-Lab 2: Stacks
+Lab 2: STACKS
+
 Write a program to keep track of a collection of "Item" objects.
 Create an “Item” class with the following private data attributes:
     Item name (string)
@@ -35,7 +37,7 @@ Write a program that offers a way to:
 2) Remove the last item
 3) Look at the last item put in the list
 
-Lab 3: Linked Lists
+Lab 3: LINKED LISTS
  
 Write a program to process the lines in a text file using a linked list ADT and shared pointers.
 
@@ -80,7 +82,8 @@ The client program will do the following:
     Display the lines from the file in sorted order with no dupicates using the toSortedVectorNoDups method.
     Display the number of lines that were in the vector. 
 
-Lab 4: Binary Trees
+Lab 4: BINARY TREES
+
 Create a class for EmployeeInfo that contains:
     Employee ID Number – int
     Employee Name – string
